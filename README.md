@@ -1,4 +1,7 @@
-# test coverage for  [react-image-gallery (v0.7.15)](https://github.com/xiaolin/react-image-gallery)  [![npm package](https://img.shields.io/npm/v/npmtest-react-image-gallery.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-image-gallery) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-image-gallery.svg)](https://travis-ci.org/npmtest/node-npmtest-react-image-gallery)
+# npmtest-react-image-gallery
+
+#### basic test coverage for  [react-image-gallery (v0.7.15)](https://github.com/xiaolin/react-image-gallery)  [![npm package](https://img.shields.io/npm/v/npmtest-react-image-gallery.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-image-gallery) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-image-gallery.svg)](https://travis-ci.org/npmtest/node-npmtest-react-image-gallery)
+
 #### Responsive and flexible carousel component with thumbnail support
 
 [![NPM](https://nodei.co/npm/react-image-gallery.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-image-gallery)
